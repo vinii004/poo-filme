@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "C:/Users/vinicius.damaceno/Downloads/SENAC-PWNB-1234-Profchvp-main/poo-filmes/./src/main/frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "C:/Users/vinicius.damaceno/Downloads/SENAC-PWNB-1234-Profchvp-main/poo-filmes/./src/main/frontend/generated/jar-resources",
+  "staticOutput": "C:/Users/vinicius.damaceno/Downloads/SENAC-PWNB-1234-Profchvp-main/poo-filmes/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "C:\\Users\\vinicius.damaceno\\Downloads\\SENAC-PWNB-1234-Profchvp-main\\poo-filmes\\target\\classes\\META-INF\\VAADIN\\config",
+  "frontendBundleOutput": "C:\\Users\\vinicius.damaceno\\Downloads\\SENAC-PWNB-1234-Profchvp-main\\poo-filmes\\target\\classes\\META-INF\\VAADIN\\webapp",
+  "devBundleOutput": "C:/Users/vinicius.damaceno/Downloads/SENAC-PWNB-1234-Profchvp-main/poo-filmes/target/dev-bundle/webapp",
+  "devBundleStatsOutput": "C:/Users/vinicius.damaceno/Downloads/SENAC-PWNB-1234-Profchvp-main/poo-filmes/target/dev-bundle/config",
+  "jarResourcesFolder": "C:/Users/vinicius.damaceno/Downloads/SENAC-PWNB-1234-Profchvp-main/poo-filmes/./src/main/frontend/generated/jar-resources",
+  "themeName": "my-theme",
+  "clientServiceWorkerSource": "C:\\Users\\vinicius.damaceno\\Downloads\\SENAC-PWNB-1234-Profchvp-main\\poo-filmes\\target\\sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
